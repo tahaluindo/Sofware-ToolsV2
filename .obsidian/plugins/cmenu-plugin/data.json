@@ -1,0 +1,68 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "obsidian-tweaks:toggle-heading-1",
+      "name": "ObsidianTweaks: Toggle Heading - H1",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-tweaks:toggle-heading-2",
+      "name": "ObsidianTweaks: Toggle Heading - H2",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-tweaks:toggle-heading-3",
+      "name": "ObsidianTweaks: Toggle Heading - H3",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-tweaks:toggle-heading-4",
+      "name": "ObsidianTweaks: Toggle Heading - H4",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-tweaks:toggle-heading-5",
+      "name": "ObsidianTweaks: Toggle Heading - H5",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "editor:toggle-bold",
+      "name": "Toggle bold",
+      "icon": "bold-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "B"
+        }
+      ]
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bullet-list",
+      "name": "cMenu: Toggle bullet",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "obsidian-sort-and-permute-lines:sort-list-alphabetically",
+      "name": "Sort & Permute lines: Sort current list alphabetically",
+      "icon": "enlarge-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 5
+}
